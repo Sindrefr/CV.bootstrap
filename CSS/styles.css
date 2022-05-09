@@ -21,7 +21,7 @@ body {
 }
 
 #Prosjekter {
-  background-color: #ffff;
+  background-color: #1a799e;
 }
 
 .container-fluid {
@@ -69,6 +69,11 @@ h2 {
 }
 .center {
     text-align: center;
+  }
+
+  .centerWhite {
+    text-align: center;
+    color: white;
   }
 /* Gallery */
 
