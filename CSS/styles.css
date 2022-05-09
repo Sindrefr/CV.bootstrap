@@ -20,6 +20,10 @@ body {
   color: white;
 }
 
+#Prosjekter {
+  background-color: #BCC4D4;
+}
+
 .container-fluid {
   padding: 3% 15% 7%;
 }
