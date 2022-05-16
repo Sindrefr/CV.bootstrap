@@ -52,6 +52,7 @@ h2 {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Readex Pro";
+  color: white !important;
 }
 
 /* home */
