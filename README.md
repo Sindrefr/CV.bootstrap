@@ -1,1 +1,2 @@
-# CV.bootstrap
+Hjemmeside
+https://sindrefr.github.io/hjemmeside/
