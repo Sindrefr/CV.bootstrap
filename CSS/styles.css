@@ -37,6 +37,9 @@ h2 {
   font-size: 1.5rem;
   line-height: 1.5;
 }
+.shadow {
+  text-shadow: 2px 2px #000000;
+}
 /* navbar */
 .navbar {
   padding: 0 0 4.5rem;
@@ -75,6 +78,10 @@ h2 {
   .centerWhite {
     text-align: center;
     color: white;
+  }
+
+  .row{
+    margin-bottom: 4em;
   }
 /* Gallery */
 
